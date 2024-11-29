@@ -1,0 +1,3 @@
+[submodule "themes/flex-bp-hugo-cv"]
+	path = themes/flex-bp-hugo-cv
+	url = https://github.com/spech66/flex-bp-hugo-cv.git
