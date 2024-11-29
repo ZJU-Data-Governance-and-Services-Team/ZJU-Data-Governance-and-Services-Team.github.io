@@ -1,6 +1,6 @@
 ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
-baseURL = "https://gohugo.io"
-title = "Hugo Themes"
+baseURL = "https://zju-data-governance-and-services-team.github.io/"
+title = "ZJU Data Governance and Services Team"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 # paginate = 3
