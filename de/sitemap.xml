@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo.io/de/</loc>
+    <loc>https://zju-data-governance-and-services-team.github.io/de/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo.io/"
+                href="https://zju-data-governance-and-services-team.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://gohugo.io/de/"
+                href="https://zju-data-governance-and-services-team.github.io/de/"
                 />
   </url>
 </urlset>
